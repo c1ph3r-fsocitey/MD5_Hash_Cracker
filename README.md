@@ -6,3 +6,4 @@ Use the following command to install the library used for python module:
 ```
 pip install hashlib
 ```
+This requires a MD5 Hash and a wordlist to bruteforce the dictionary attack!
